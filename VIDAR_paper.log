@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.20)  27 FEB 2026 10:00
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.10.20)  25 MAY 2026 20:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -961,95 +961,35 @@ LaTeX Font Info:    Trying to load font information for U+msb on input line 75.
 (/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 )
-Overfull \hbox (8.69125pt too wide) in paragraph at lines 83--83
-\T1/cmr/bx/n/12 VIDAR: A Multi-Dimensional Risk As-sess-ment Frame-work for Vib
-e-
- []
-
-
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 96.
+(hyperref)                removing `\<def>-command' on input line 87.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\cnotenum' on input line 96.
+(hyperref)                removing `\cnotenum' on input line 87.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\<def>-command' on input line 96.
+(hyperref)                removing `\<def>-command' on input line 87.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (Unicode):
-(hyperref)                removing `\@corref' on input line 96.
+(hyperref)                removing `\@corref' on input line 87.
 
 [1
 
+
 {/usr/local/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/usr/loc
-al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{/usr/local
-/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
-
-
-pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.96 \end{frontmatter}
-                       [1
-
-
-]
-
-Package natbib Warning: Citation `karpathy2025vibe' on page 2 undefined on inpu
-t line 107.
-
-
+al/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}]
 
 [2]
 
-Package natbib Warning: Citation `gartner2026defects' on page 3 undefined on in
-put line 109.
-
-
-Package natbib Warning: Citation `gartner2024lowcode' on page 3 undefined on in
-put line 109.
-
-
-Package natbib Warning: Citation `pearce2022asleep' on page 3 undefined on inpu
-t line 111.
-
-
-Package natbib Warning: Citation `perry2023users' on page 3 undefined on input 
-line 111.
-
-
-Package natbib Warning: Citation `jiang2025vibecoding' on page 3 undefined on i
-nput line 111.
-
-
-
 [3]
 
-Package natbib Warning: Citation `owasp2025llm' on page 4 undefined on input li
-ne 113.
-
-
-Package natbib Warning: Citation `unit42shield' on page 4 undefined on input li
-ne 113.
-
-
-Package natbib Warning: Citation `nist2023ai' on page 4 undefined on input line
- 113.
-
-
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 4 undefined 
-on input line 115.
-
-
-
 [4]
-Overfull \hbox (35.94655pt too wide) in paragraph at lines 117--118
+Overfull \hbox (35.94655pt too wide) in paragraph at lines 108--109
 []\T1/cmr/m/n/12 This pa-per presents \T1/cmr/m/sc/12 Vi-dar \T1/cmr/m/n/12 (\T
 1/cmr/bx/n/12 V\T1/cmr/m/n/12 ulnerability \T1/cmr/bx/n/12 I\T1/cmr/m/n/12 dent
 ification, \T1/cmr/bx/n/12 D\T1/cmr/m/n/12 eveloper \T1/cmr/bx/n/12 A\T1/cmr/m/
@@ -1060,179 +1000,90 @@ n/12 ssessment,
 
 [5]
 
-Package natbib Warning: Citation `woo2020rise' on page 6 undefined on input lin
-e 142.
-
-
-Package natbib Warning: Citation `sahay2020supporting' on page 6 undefined on i
-nput line 142.
-
-
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 6 undefined 
-on input line 142.
-
-
-
 [6]
 
-Package natbib Warning: Citation `karpathy2025vibe' on page 7 undefined on inpu
-t line 200.
-
-
-Overfull \hbox (3.9117pt too wide) in paragraph at lines 200--201
-[]\T1/cmr/m/n/12 Vibe cod-ing, as de-fined by Karpa-thy [\T1/cmr/bx/n/12 ? \T1/
-cmr/m/n/12 ], refers to a de-vel-op-ment paradigm
- []
-
-
-Overfull \hbox (30.22083pt too wide) in paragraph at lines 205--206
+[7]
+Overfull \hbox (30.22083pt too wide) in paragraph at lines 196--197
 []\T1/cmr/bx/n/12 IDE-integrated as-sis-tants: \T1/cmr/m/n/12 GitHub Copi-lot, 
 Cur-sor, Wind-surf (Codeium),
  []
 
 
-
-[7]
-
-[8]
-
-Package natbib Warning: Citation `pearce2022asleep' on page 9 undefined on inpu
-t line 227.
-
-
-Package natbib Warning: Citation `perry2023users' on page 9 undefined on input 
-line 228.
-
-
-Underfull \hbox (badness 4291) in paragraph at lines 228--229
+Underfull \hbox (badness 4291) in paragraph at lines 219--220
 []|\T1/cmr/m/n/10 AI users wrote sig-nif-i-
  []
 
 
-Underfull \hbox (badness 1675) in paragraph at lines 228--229
+Underfull \hbox (badness 1675) in paragraph at lines 219--220
 \T1/cmr/m/n/10 cantly less se-cure code;
  []
 
 
-Package natbib Warning: Citation `sandoval2023lost' on page 9 undefined on inpu
-t line 229.
-
-
-Underfull \hbox (badness 1728) in paragraph at lines 229--229
+Underfull \hbox (badness 1728) in paragraph at lines 220--220
 []|\T1/cmr/m/n/10 58 par-tic-i-pants, C pro-
  []
 
 
-Package natbib Warning: Citation `jiang2025vibecoding' on page 9 undefined on i
-nput line 230.
-
-
-Underfull \hbox (badness 4279) in paragraph at lines 230--230
+Underfull \hbox (badness 4279) in paragraph at lines 221--221
 []|\T1/cmr/m/n/10 Large-scale vibe cod-ing
  []
 
 
-Package natbib Warning: Citation `fu2023security' on page 9 undefined on input 
-line 231.
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 231--231
+Underfull \hbox (badness 10000) in paragraph at lines 222--222
 []|\T1/cmr/m/n/10 Copilot in GitHub
  []
 
 
-Package natbib Warning: Citation `tony2023llmseceval' on page 9 undefined on in
-put line 232.
-
-
-Underfull \hbox (badness 2961) in paragraph at lines 232--233
+Underfull \hbox (badness 2961) in paragraph at lines 223--224
 []|\T1/cmr/m/n/10 62% of gen-er-ated code
  []
 
 
-Underfull \hbox (badness 4621) in paragraph at lines 232--233
+Underfull \hbox (badness 4621) in paragraph at lines 223--224
 \T1/cmr/m/n/10 con-tained at least one
  []
 
 
 
+[8{/usr/local/texlive/2025/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc
+}]
+
 [9]
 
-Package natbib Warning: Citation `owasp2025llm' on page 10 undefined on input l
-ine 244.
-
-
-Package natbib Warning: Citation `unit42shield' on page 10 undefined on input l
-ine 246.
-
-
-Package natbib Warning: Citation `nist2023ai' on page 10 undefined on input lin
-e 248.
-
-
-Package natbib Warning: Citation `nist2024genai' on page 10 undefined on input 
-line 248.
-
-
-Package natbib Warning: Citation `csa2024ai' on page 10 undefined on input line
- 250.
-
-
-Package natbib Warning: Citation `freund2014measuring' on page 10 undefined on 
-input line 252.
-
-
-Package natbib Warning: Citation `fair2024bn' on page 10 undefined on input lin
-e 252.
-
-
-Package natbib Warning: Citation `alomar2025susvibes' on page 10 undefined on i
-nput line 254.
-
-
-
 [10]
-Underfull \hbox (badness 10000) in paragraph at lines 273--273
+Underfull \hbox (badness 10000) in paragraph at lines 264--264
 []|\T1/cmr/m/n/10 Developer com-pre-
  []
 
 
-Underfull \hbox (badness 6808) in paragraph at lines 274--274
+Underfull \hbox (badness 6808) in paragraph at lines 265--265
 []|\T1/cmr/m/n/10 Governance di-men-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 276--276
+Underfull \hbox (badness 10000) in paragraph at lines 267--267
 []|\T1/cmr/m/n/10 Bayesian de-pen-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 277--277
+Underfull \hbox (badness 10000) in paragraph at lines 268--268
 []|\T1/cmr/m/n/10 Empirically val-i-
  []
 
 
-Package natbib Warning: Citation `creswell2017research' on page 11 undefined on
- input line 289.
-
-
-Package natbib Warning: Citation `page2021prisma' on page 11 undefined on input
- line 338.
-
-
-Overfull \hbox (19.55466pt too wide) in paragraph at lines 344--345
+Overfull \hbox (19.55466pt too wide) in paragraph at lines 335--336
 []\T1/cmtt/m/n/10.95 ("vibe coding" OR "AI-generated code" OR "LLM code generat
 ion"
  []
 
 
-Overfull \hbox (30.8714pt too wide) in paragraph at lines 344--345
+Overfull \hbox (30.8714pt too wide) in paragraph at lines 335--336
 \T1/cmtt/m/n/10.95 OR "AI-assisted development" OR "copilot security" OR "AI co
 ding
  []
 
 
-Overfull \hbox (2.57954pt too wide) in paragraph at lines 344--345
+Overfull \hbox (2.57954pt too wide) in paragraph at lines 335--336
 \T1/cmtt/m/n/10.95 assistant") AND ("security" OR "vulnerability" OR "risk" OR
  []
 
@@ -1242,75 +1093,24 @@ Overfull \hbox (2.57954pt too wide) in paragraph at lines 344--345
 
 [12]
 
-Package natbib Warning: Citation `linstone1975delphi' on page 13 undefined on i
-nput line 359.
-
-
-Package natbib Warning: Citation `diamond2014defining' on page 13 undefined on 
-input line 359.
-
-
-Package natbib Warning: Citation `saaty1980ahp' on page 13 undefined on input l
-ine 364.
-
-
-Package natbib Warning: Citation `saaty2008ahp' on page 13 undefined on input l
-ine 364.
-
-
-
 [13]
 
-Package natbib Warning: Citation `semgrep2024' on page 14 undefined on input li
-ne 390.
-
-
-Package natbib Warning: Citation `codeql2024' on page 14 undefined on input lin
-e 390.
-
-
-Package natbib Warning: Citation `owaspzap2024' on page 14 undefined on input l
-ine 391.
-
-
-
 [14]
-Overfull \hbox (3.1025pt too wide) in paragraph at lines 396--397
+Overfull \hbox (3.1025pt too wide) in paragraph at lines 387--388
 []\T1/cmr/m/n/12 The bench-mark-ing pro-duces em-pir-i-cal con-di-tional prob-a
 -bil-ity ta-ble (CPT)
  []
 
 
-Package natbib Warning: Citation `brouillard2020pyagrum' on page 15 undefined o
-n input line 402.
-
-
-Package natbib Warning: Citation `genie2024' on page 15 undefined on input line
- 402.
-
-
-Overfull \hbox (7.40985pt too wide) in paragraph at lines 406--407
+Overfull \hbox (7.40985pt too wide) in paragraph at lines 397--398
 \T1/cmr/m/n/12 com-bin-ing em-pir-i-cal fre-quen-cies from Phase 3 bench-mark-i
 ng with expert-
  []
 
 
-Package natbib Warning: Citation `marcot2012metrics' on page 15 undefined on in
-put line 407.
-
-
-Package natbib Warning: Citation `marcot2019advances' on page 15 undefined on i
-nput line 407.
-
-
 
 [15]
-
-Package natbib Warning: Citation `davis1989tam' on page 16 undefined on input l
-ine 427.
-
-
-Overfull \hbox (6.23228pt too wide) in paragraph at lines 427--428
+Overfull \hbox (6.23228pt too wide) in paragraph at lines 418--419
 []\T1/cmr/m/n/12 We eval-u-ate \T1/cmr/m/sc/12 Vi-dar\T1/cmr/m/n/12 's prac-ti-
 cal util-ity through a sur-vey and semi-structured
  []
@@ -1318,206 +1118,165 @@ cal util-ity through a sur-vey and semi-structured
 
 
 [16]
-Overfull \hbox (4.41734pt too wide) in paragraph at lines 442--443
+Overfull \hbox (4.41734pt too wide) in paragraph at lines 433--434
 []\T1/cmr/bx/n/12 Comprehensiveness: \T1/cmr/m/n/12 Cover all sig-nif-i-cant ri
 sk sources, in-clud-ing those
  []
 
 
-Package natbib Warning: Citation `iso31000' on page 17 undefined on input line 
-452.
-
-
-Package natbib Warning: Citation `iso27005' on page 17 undefined on input line 
-452.
-
-
-Package natbib Warning: Citation `nist2023ai' on page 17 undefined on input lin
-e 458.
-
-
-Package natbib Warning: Citation `owasp2021top10' on page 17 undefined on input
- line 458.
-
-
 
 [17]
-Overfull \hbox (116.70624pt too wide) in paragraph at lines 510--511
+Overfull \hbox (116.70624pt too wide) in paragraph at lines 501--502
  [][] 
  []
 
 
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 18 undefined
- on input line 519.
-
-
-Overfull \hbox (1.04509pt too wide) in paragraph at lines 528--528
+Overfull \hbox (1.04509pt too wide) in paragraph at lines 519--519
 []|\T1/cmr/bx/n/10 #| 
  []
 
 
-Overfull \hbox (4.0999pt too wide) in paragraph at lines 530--530
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 521--521
 []|\T1/cmr/m/n/10 D1| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--530
+Underfull \hbox (badness 10000) in paragraph at lines 521--521
 []|\T1/cmr/m/n/10 Code Gen-er-a-
  []
 
 
-Underfull \hbox (badness 1048) in paragraph at lines 530--530
+Underfull \hbox (badness 1048) in paragraph at lines 521--521
 []|\T1/cmr/m/n/10 Application Se-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--531
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 []|\T1/cmr/m/n/10 Vulnerability In-jec-tion Rate;
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--531
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 \T1/cmr/m/n/10 Se-man-tic In-fi-delity Risk; It-er-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--531
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 \T1/cmr/m/n/10 a-tive Degra-da-tion Risk; Non-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 530--531
+Underfull \hbox (badness 10000) in paragraph at lines 521--522
 \T1/cmr/m/n/10 Deterministic Out-put Risk;
  []
 
 
-Overfull \hbox (4.0999pt too wide) in paragraph at lines 532--532
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 523--523
 []|\T1/cmr/m/n/10 D2| 
  []
 
 
-Underfull \hbox (badness 1354) in paragraph at lines 532--532
+Underfull \hbox (badness 1354) in paragraph at lines 523--523
 []|\T1/cmr/m/n/10 Data & Model
  []
 
 
-Underfull \hbox (badness 2418) in paragraph at lines 532--533
+Underfull \hbox (badness 2418) in paragraph at lines 523--524
 []|\T1/cmr/m/n/10 Prompt Data Leak-age; Train-ing
  []
 
 
-Overfull \hbox (4.0999pt too wide) in paragraph at lines 534--534
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 525--525
 []|\T1/cmr/m/n/10 D3| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
 []|\T1/cmr/m/n/10 Platform &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 534--534
+Underfull \hbox (badness 10000) in paragraph at lines 525--525
 []|\T1/cmr/m/n/10 Platform-
  []
 
 
-Underfull \hbox (badness 2065) in paragraph at lines 534--535
+Underfull \hbox (badness 2065) in paragraph at lines 525--526
 \T1/cmr/m/n/10 squat-ting); Toolchain In-te-gra-tion
  []
 
 
-Overfull \hbox (4.0999pt too wide) in paragraph at lines 536--536
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 527--527
 []|\T1/cmr/m/n/10 D4| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--536
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
 []|\T1/cmr/m/n/10 Developer &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 536--536
+Underfull \hbox (badness 10000) in paragraph at lines 527--527
 []|\T1/cmr/m/n/10 User-Related
  []
 
 
-Underfull \hbox (badness 2951) in paragraph at lines 536--537
+Underfull \hbox (badness 2951) in paragraph at lines 527--528
 []|\T1/cmr/m/n/10 Developer Com-pre-hen-sion Deficit
  []
 
 
-Underfull \hbox (badness 4441) in paragraph at lines 536--537
+Underfull \hbox (badness 4441) in paragraph at lines 527--528
 \T1/cmr/m/n/10 (DCD); Au-toma-tion Bias In-dex
  []
 
 
-Overfull \hbox (4.0999pt too wide) in paragraph at lines 538--538
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 529--529
 []|\T1/cmr/m/n/10 D5| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--538
+Underfull \hbox (badness 10000) in paragraph at lines 529--529
 []|\T1/cmr/m/it/10 NEW --- no
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 \T1/cmr/m/n/10 En-gi-neer-ing Risk; Con-text
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 538--539
+Underfull \hbox (badness 10000) in paragraph at lines 529--530
 \T1/cmr/m/n/10 ity/Auditability Risk; Model
  []
 
 
-Overfull \hbox (4.0999pt too wide) in paragraph at lines 540--540
+Overfull \hbox (4.0999pt too wide) in paragraph at lines 531--531
 []|\T1/cmr/m/n/10 D6| 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--540
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []|\T1/cmr/m/n/10 Governance &
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--540
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 []|\T1/cmr/m/it/10 NEW --- ex-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 540--540
+Underfull \hbox (badness 10000) in paragraph at lines 531--531
 \T1/cmr/m/it/10 tends be-yond
  []
 
 
-LaTeX Warning: Float too large for page by 62.18196pt on input line 543.
-
-
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 18 undefined
- on input line 549.
+LaTeX Warning: Float too large for page by 62.18196pt on input line 534.
 
 
 
 [18]
-
-Package natbib Warning: Citation `pearce2022asleep' on page 19 undefined on inp
-ut line 551.
-
-
-Package natbib Warning: Citation `tony2023llmseceval' on page 19 undefined on i
-nput line 551.
-
-
-Package natbib Warning: Citation `fu2023security' on page 19 undefined on input
- line 551.
-
-
-Package natbib Warning: Citation `ouyang2025iterative' on page 19 undefined on 
-input line 565.
-
-
-Overfull \hbox (6.90579pt too wide) in paragraph at lines 567--568
+Overfull \hbox (6.90579pt too wide) in paragraph at lines 558--559
 []\T1/cmr/bx/n/12 Non-Deterministic Out-put Risk \T1/cmr/m/n/12 re-flects the f
 act that iden-ti-cal prompts
  []
@@ -1526,103 +1285,30 @@ act that iden-ti-cal prompts
 
 [19]
 
-Package natbib Warning: Citation `jesse2023large' on page 20 undefined on input
- line 577.
-
-
-Package natbib Warning: Citation `greshake2023not' on page 20 undefined on inpu
-t line 579.
-
-
-Package natbib Warning: Citation `wu2024new' on page 20 undefined on input line
- 579.
-
-
-
 [20]
-
-Package natbib Warning: Citation `lanyado2023can' on page 21 undefined on input
- line 591.
-
-
-Package natbib Warning: Citation `thompson2024slopsquatting' on page 21 undefin
-ed on input line 591.
-
-
-Package natbib Warning: Citation `spracklen2024we' on page 21 undefined on inpu
-t line 591.
-
-
-Overfull \hbox (17.58522pt too wide) in paragraph at lines 591--592
+Overfull \hbox (17.58522pt too wide) in paragraph at lines 582--583
 []\T1/cmr/bx/n/12 Supply Chain Hal-lu-ci-na-tion (Slop-squat-ting) \T1/cmr/m/n/
 12 de-scribes the phe-nomenon
  []
 
 
-Overfull \hbox (1.49745pt too wide) in paragraph at lines 591--592
+Overfull \hbox (1.49745pt too wide) in paragraph at lines 582--583
 \T1/cmr/m/n/12 where LLMs rec-om-mend non-existent pack-ages (``hal-lu-ci-nated
  de-pen-den-cies''),
  []
 
 
-Package natbib Warning: Citation `chan2024harms' on page 21 undefined on input 
-line 595.
-
-
-Package natbib Warning: Citation `karpathy2025vibe' on page 21 undefined on inp
-ut line 608.
-
-
 
 [21]
-
-Package natbib Warning: Citation `xia2023measuring' on page 22 undefined on inp
-ut line 610.
-
-
-Package natbib Warning: Citation `barke2023grounded' on page 22 undefined on in
-put line 610.
-
-
-Package natbib Warning: Citation `parasuraman1997humans' on page 22 undefined o
-n input line 617.
-
-
-Package natbib Warning: Citation `goddard2012automation' on page 22 undefined o
-n input line 617.
-
-
-Package natbib Warning: Citation `perry2023users' on page 22 undefined on input
- line 617.
-
-
 
 [22]
 
 [23]
 
-Package natbib Warning: Citation `euaiact2024' on page 24 undefined on input li
-ne 656.
-
-
-Package natbib Warning: Citation `nist2023ai' on page 24 undefined on input lin
-e 656.
-
-
-Package natbib Warning: Citation `besker2018technical' on page 24 undefined on 
-input line 658.
-
-
-
 [24]
 
-Package natbib Warning: Citation `opara2016critical' on page 25 undefined on in
-put line 660.
-
-
-
 [25]
-Overfull \hbox (39.13104pt too wide) in paragraph at lines 775--776
+Overfull \hbox (39.13104pt too wide) in paragraph at lines 766--767
  [][] 
  []
 
@@ -1631,7 +1317,7 @@ Overfull \hbox (39.13104pt too wide) in paragraph at lines 775--776
 [26]
 
 [27]
-Overfull \hbox (94.08063pt too wide) in paragraph at lines 812--823
+Overfull \hbox (94.08063pt too wide) in paragraph at lines 803--814
  [] 
  []
 
@@ -1639,33 +1325,7 @@ Overfull \hbox (94.08063pt too wide) in paragraph at lines 812--823
 
 [28]
 
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 29 undefined
- on input line 839.
-
-
-
 [29]
-
-Package natbib Warning: Citation `nist2023ai' on page 30 undefined on input lin
-e 892.
-
-
-Package natbib Warning: Citation `owasp2021top10' on page 30 undefined on input
- line 893.
-
-
-Package natbib Warning: Citation `owasp2025llm' on page 30 undefined on input l
-ine 893.
-
-
-Package natbib Warning: Citation `iso27005' on page 30 undefined on input line 
-894.
-
-
-Package natbib Warning: Citation `euaiact2024' on page 30 undefined on input li
-ne 895.
-
-
 
 [30]
 
@@ -1674,7 +1334,7 @@ ne 895.
 [32]
 
 [33]
-Overfull \hbox (0.32828pt too wide) in paragraph at lines 1017--1018
+Overfull \hbox (0.32828pt too wide) in paragraph at lines 1008--1009
 []\T1/cmr/bx/n/12 Complexity con-cern: \T1/cmr/m/n/12 Some prac-ti-tion-ers not
 ed that the full Bayesian
  []
@@ -1683,29 +1343,20 @@ ed that the full Bayesian
 
 [34]
 
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 35 undefined
- on input line 1038.
-
-
-
 [35]
 
 [36]
 
 [37]
-Overfull \hbox (13.3541pt too wide) in paragraph at lines 1081--1082
+Overfull \hbox (13.3541pt too wide) in paragraph at lines 1072--1073
 []\T1/cmr/bx/n/12 DCD mea-sure-ment chal-lenges: \T1/cmr/m/n/12 The De-vel-oper
  Com-pre-hen-sion Deficit
  []
 
 
-Package natbib Warning: Citation `hathnagoda2024assessing' on page 38 undefined
- on input line 1103.
-
-
 
 [38]
-Overfull \hbox (1.86247pt too wide) in paragraph at lines 1112--1113
+Overfull \hbox (1.86247pt too wide) in paragraph at lines 1103--1104
 []\T1/cmr/m/n/12 Empirically cal-i-brated, platform-specific risk pro-files ex-
 tend-ing the plat-
  []
@@ -1713,21 +1364,22 @@ tend-ing the plat-
 
 
 [39]
-Overfull \hbox (1.20993pt too wide) in paragraph at lines 1132--1133
+Overfull \hbox (1.20993pt too wide) in paragraph at lines 1123--1124
 \T1/cmr/m/n/12 CPTs for high-risk do-mains (health-care, fi-nance, crit-i-cal i
 n-fras-truc-ture) where
  []
 
 
 
-[40]
-No file VIDAR_paper.bbl.
-
-Package natbib Warning: There were undefined citations.
-
-
+[40] (./VIDAR_paper.bbl
 
 [41]
+Underfull \hbox (badness 10000) in paragraph at lines 9--12
+[]\T1/cmr/m/n/12 A. Karpa-thy, Vibe cod-ing, []$\T1/cmtt/m/n/12 https : / / x .
+ com / karpathy / status /
+ []
+
+
 
 [42]
 
@@ -1735,24 +1387,32 @@ Package natbib Warning: There were undefined citations.
 
 [44]
 
-[45] (./VIDAR_paper.aux)
+[45]
+
+[46]
+
+[47])
+
+[48]
+
+[49]
+
+[50]
+
+[51] (./VIDAR_paper.aux)
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
 Package rerunfilecheck Info: File `VIDAR_paper.out' has not changed.
 (rerunfilecheck)             Checksum: AF24BF8B172ECECCBCFBB3FEAAD43BD3;9421.
  ) 
 Here is how much of TeX's memory you used:
- 35815 strings out of 473190
- 823000 string characters out of 5715799
- 1325975 words of memory out of 5000000
- 58351 multiletter control sequences out of 15000+600000
- 581350 words of font info for 93 fonts, out of 8000000 for 9000
+ 36037 strings out of 473190
+ 827810 string characters out of 5715799
+ 1325395 words of memory out of 5000000
+ 58510 multiletter control sequences out of 15000+600000
+ 581663 words of font info for 94 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  84i,19n,87p,2451b,2367s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
@@ -1783,11 +1443,12 @@ onts/type1/public/cm-super/sfti0700.pfb></usr/local/texlive/2025/texmf-dist/fon
 ts/type1/public/cm-super/sfti1000.pfb></usr/local/texlive/2025/texmf-dist/fonts
 /type1/public/cm-super/sfti1200.pfb></usr/local/texlive/2025/texmf-dist/fonts/t
 ype1/public/cm-super/sftt1000.pfb></usr/local/texlive/2025/texmf-dist/fonts/typ
-e1/public/cm-super/sftt1095.pfb>
-Output written on VIDAR_paper.pdf (46 pages, 573215 bytes).
+e1/public/cm-super/sftt1095.pfb></usr/local/texlive/2025/texmf-dist/fonts/type1
+/public/cm-super/sftt1200.pfb>
+Output written on VIDAR_paper.pdf (51 pages, 620752 bytes).
 PDF statistics:
- 658 PDF objects out of 1000 (max. 8388607)
- 544 compressed objects within 6 object streams
- 153 named destinations out of 1000 (max. 500000)
+ 839 PDF objects out of 1000 (max. 8388607)
+ 716 compressed objects within 8 object streams
+ 212 named destinations out of 1000 (max. 500000)
  389 words of extra memory for PDF output out of 10000 (max. 10000000)
 
